@@ -1,5 +1,6 @@
 # 💫 About Me:
-![Uploading thumb-1920-1310363.jpg…]()
+![thumb-1920-1356447](https://github.com/user-attachments/assets/653fb8ef-2b55-443e-a3f4-181ede73e090)
+
 
 <h2 align = "center">Wassup, I'm Ryan Robby Hendry Renaldi!</h2>
 
