@@ -3,6 +3,7 @@
 
 
 <h2 align = "center">Wassup, I'm Ryan Robby Hendry Renaldi!</h2>
+<p>Gaming, Music, Anime, Animation, Editing, Front End, Naruto Lovers</p>
 
 
 ## 🌐 Socials:
