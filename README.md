@@ -1,5 +1,4 @@
 # 💫 About Me:
-![Uploading thumb-1920-1206408.jpg…]()
 
 Wassup, I'm Ryan Robby Hendry Renaldi!
 
